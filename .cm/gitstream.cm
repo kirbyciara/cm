@@ -14,7 +14,6 @@ automations:
     if:
       - {{ not pr.draft }}
       - {{ not is.bot }}
-
     run:
       - action: code-review@v1
         args:
