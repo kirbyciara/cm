@@ -4,7 +4,7 @@
 manifest:
   version: 1.0
 
-
+"Hi hi testing"
 automations:
   # Use LinearB's AI service to review the changes
   linearb_ai_review:
